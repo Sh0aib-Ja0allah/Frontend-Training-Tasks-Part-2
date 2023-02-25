@@ -15,3 +15,5 @@ Please find the attached Gif image hover-me.gif and implement a similar button t
 Please follow this workout https://codepen.io/mikemang/post/a-beginner-s-guide-to-pure-css-images as reference to build this image purely by CSS and HTML (No JavaScript):
 
 ![Design preview for the Fifth task which it's a clock design](./clockDesign.png)
+
+### Thanks.
