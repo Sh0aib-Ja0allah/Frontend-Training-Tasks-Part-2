@@ -293,7 +293,7 @@ a:hover{
     background-color: white;
     position: absolute;
     bottom: -200px;
-    left: 550px;
+    left: 450px;
     box-shadow: 0 0px 8px 0px rgb(0, 0, 0, 0.5);
     transform: rotate(-211deg);
     z-index: -1;
@@ -305,7 +305,7 @@ a:hover{
     background-color: white;
     position: absolute;
     bottom: -200px;
-    left: 850px;
+    left: 750px;
     box-shadow: 0 0px 8px 0px rgb(0, 0, 0, 0.5);
     transform: rotate(211deg);
     z-index: -1;
