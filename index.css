@@ -123,7 +123,8 @@ a:hover{
     height: 160px;
 }
 .container:hover .hover{
-    color: #6D1DE3;
+/*     color: #6D1DE3; */
+    color: red;
 }
 /* End of Task 4 CSS Solution */
 
