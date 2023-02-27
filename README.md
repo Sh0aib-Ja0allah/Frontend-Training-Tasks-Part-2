@@ -2,7 +2,7 @@
 
 ### This repository describes part 2 of Starting point Front-end Training Tasks, <br />You will find part 1 & the other parts in <a href="https://github.com/Sh0aib-Ja0allah?tab=repositories">my GitHub Profile</a>.
 
-## To Run this part and see the results follow link : <br />
+## To Run this part and see the results follow link : <br />https://sh0aib-ja0allah.github.io/Frontend-Training-Tasks-Part-2/
 
 ## Task #4: 
 
