@@ -119,8 +119,8 @@ a:hover{
     height: 190px;
 }
 .container:hover .hover::before{
-    width: 375px;
-    height: 168px;
+    width: 370px;
+    height: 160px;
 }
 .container:hover .hover{
     color: #6D1DE3;
